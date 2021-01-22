@@ -1,5 +1,8 @@
 <img src = "https://pbs.twimg.com/profile_banners/6166742/1603740461/1500x500" >
 
+<div style="text-align:center">
+  <img src="https://pbs.twimg.com/profile_images/1320809927011610631/TJt5Rw_k_400x400.jpg" />
+</div>
 # About
 
 sontek (John Anderson) is a full-stack software developer that lives in Luquillo, Puerto Rico. 
