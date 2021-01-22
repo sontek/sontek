@@ -2,7 +2,9 @@
 
 # About
 
-sontek (John Anderson) is a full-stack software developer that lives in Luquillo, Puerto Rico. Rust, Python, and DevOps are his hobbies.
+sontek (John Anderson) is a full-stack software developer that lives in Luquillo, Puerto Rico. 
+
+Rust, Python, and DevOps are his hobbies.
 
 ## Links
 - Twitter: https://twitter.com/sontek
