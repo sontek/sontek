@@ -1,6 +1,6 @@
 <img src = "https://pbs.twimg.com/profile_banners/6166742/1603740461/1500x500" >
 
-<img style='display: block; margin: 0 auto;' src="https://pbs.twimg.com/profile_images/1320809927011610631/TJt5Rw_k_400x400.jpg" />
+<img align="center" src="https://pbs.twimg.com/profile_images/1320809927011610631/TJt5Rw_k_400x400.jpg" />
 
 # About
 
