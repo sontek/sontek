@@ -1,6 +1,4 @@
-<p align="center" width="100%">
-  <img width="33%" src="https://pbs.twimg.com/profile_images/1320809927011610631/TJt5Rw_k_400x400.jpg" />
-</p>
+<img src = "https://pbs.twimg.com/profile_banners/6166742/1603740461/1500x500" >
 
 # About
 
@@ -14,3 +12,4 @@ Rust, Python, and DevOps are his hobbies.
 - Instagram: https://www.instagram.com/sontek/
 - GitHub: https://github.com/sontek
 - Website: https://sontek.net/ 
+- Youtube: https://www.youtube.com/user/sontek
